@@ -31,7 +31,7 @@ export const getUserPrivateChannels = () => {
         return privateChannelsToDownload;
       })
       .then(privateChannelsDownloaded => {
-        let channelDataPromises = privateChannelsDownloaded.map(channelId => {
+        return privateChannelsDownloaded.map(channelId => {
           // find the opposite user- the user that is not the current user
           // need this for the profile picture and channel name
           const indexUnderscore = channelId.indexOf('_');
@@ -71,7 +71,7 @@ export const getUserPrivateChannels = () => {
               }; // pass through promise chain
             });
         });
-        return Promise.all(channelDataPromises);
+        // return Promise.all(channelDataPromises);
       })
       .then(data => {
         dispatch(loadPrivateChannelsSuccess(data));
