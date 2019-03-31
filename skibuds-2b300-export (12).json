@@ -1,0 +1,578 @@
+{
+  "Blocked" : {
+    "UnyUnLK1o7QFM4q0tk4qQF2rQps2" : {
+      "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1" : {
+        "channelId" : "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1_UnyUnLK1o7QFM4q0tk4qQF2rQps2",
+        "createdAt" : 1553921274102
+      },
+      "mRGFzeEklPU5NVzIgeH7gnVuycj1" : {
+        "channelId" : "UnyUnLK1o7QFM4q0tk4qQF2rQps2_mRGFzeEklPU5NVzIgeH7gnVuycj1",
+        "createdAt" : 1553921291190
+      }
+    }
+  },
+  "ChannelInfo" : {
+    "Private" : {
+      "1kYQlbLMXFN5iKbN1Zedrq0hqv02_CTc4yyRgGbdSAanIMLaRSwEUTLq2" : {
+        "fromId" : "1kYQlbLMXFN5iKbN1Zedrq0hqv02",
+        "lastMessageSent" : "Let’s ride",
+        "timestamp" : 1553813493891
+      },
+      "1kYQlbLMXFN5iKbN1Zedrq0hqv02_UnyUnLK1o7QFM4q0tk4qQF2rQps2" : {
+        "fromId" : "1kYQlbLMXFN5iKbN1Zedrq0hqv02",
+        "lastMessageSent" : "Hey david",
+        "timestamp" : 1553813524223
+      },
+      "1kYQlbLMXFN5iKbN1Zedrq0hqv02_UrSil9ZOtAUm5s1HHJOaVQ92Bi53" : {
+        "fromId" : "UrSil9ZOtAUm5s1HHJOaVQ92Bi53",
+        "lastMessageSent" : "Sup thomas",
+        "timestamp" : 1553813820979
+      },
+      "1kYQlbLMXFN5iKbN1Zedrq0hqv02_mRGFzeEklPU5NVzIgeH7gnVuycj1" : {
+        "fromId" : "mRGFzeEklPU5NVzIgeH7gnVuycj1",
+        "lastMessageSent" : "Want some blade...",
+        "timestamp" : 1553813602523
+      },
+      "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1_CTc4yyRgGbdSAanIMLaRSwEUTLq2" : {
+        "fromId" : "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1",
+        "lastMessageSent" : "Yeah ehhh",
+        "timestamp" : 1553813940075
+      },
+      "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1_UnyUnLK1o7QFM4q0tk4qQF2rQps2" : {
+        "fromId" : "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1",
+        "lastMessageSent" : "Where to",
+        "timestamp" : 1553813903354
+      },
+      "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1_UrSil9ZOtAUm5s1HHJOaVQ92Bi53" : {
+        "fromId" : "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1",
+        "lastMessageSent" : "Did you take my...",
+        "timestamp" : 1553813873971
+      },
+      "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1_mRGFzeEklPU5NVzIgeH7gnVuycj1" : {
+        "fromId" : "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1",
+        "lastMessageSent" : "Hello",
+        "timestamp" : 1553813922433
+      },
+      "CTc4yyRgGbdSAanIMLaRSwEUTLq2_UnyUnLK1o7QFM4q0tk4qQF2rQps2" : {
+        "fromId" : "CTc4yyRgGbdSAanIMLaRSwEUTLq2",
+        "lastMessageSent" : "Where do you want...",
+        "timestamp" : 1553813433972
+      },
+      "CTc4yyRgGbdSAanIMLaRSwEUTLq2_UrSil9ZOtAUm5s1HHJOaVQ92Bi53" : {
+        "fromId" : "UrSil9ZOtAUm5s1HHJOaVQ92Bi53",
+        "lastMessageSent" : "Where are the...",
+        "timestamp" : 1553813799438
+      },
+      "CTc4yyRgGbdSAanIMLaRSwEUTLq2_mRGFzeEklPU5NVzIgeH7gnVuycj1" : {
+        "fromId" : "mRGFzeEklPU5NVzIgeH7gnVuycj1",
+        "lastMessageSent" : "Want some blade...",
+        "timestamp" : 1553813656823
+      },
+      "UnyUnLK1o7QFM4q0tk4qQF2rQps2_mRGFzeEklPU5NVzIgeH7gnVuycj1" : {
+        "fromId" : "mRGFzeEklPU5NVzIgeH7gnVuycj1",
+        "lastMessageSent" : "Want some blade...",
+        "timestamp" : 1553813642384
+      },
+      "UrSil9ZOtAUm5s1HHJOaVQ92Bi53_mRGFzeEklPU5NVzIgeH7gnVuycj1" : {
+        "fromId" : "UrSil9ZOtAUm5s1HHJOaVQ92Bi53",
+        "lastMessageSent" : "Blade skis are...",
+        "timestamp" : 1553813740832
+      }
+    },
+    "Public" : {
+      "Grouse" : {
+        "Private" : {
+          "Grouse_Apres" : {
+            "ChannelPicture" : "https://firebasestorage.googleapis.com/v0/b/ski...",
+            "Name" : "Apres Fun",
+            "key" : 9
+          }
+        },
+        "Public" : {
+          "Grouse_General" : {
+            "ChannelPicture" : "https://firebasestorage.googleapis.com/v0/b/ski...",
+            "Name" : "Grouse General",
+            "key" : 1
+          }
+        }
+      },
+      "Whistler" : {
+        "Private" : {
+          "Whistler_Apres" : {
+            "ChannelPicture" : "https://firebasestorage.googleapis.com/v0/b/skibuds-2b300.appspot.com/o/runTypePictures%2Fcheers.png?alt=media&token=919a53fa-f262-46b3-a0da-3c461b0e4d02",
+            "Name" : "Apres Fun",
+            "key" : 9
+          },
+          "Whistler_Backcountry" : {
+            "ChannelPicture" : "https://firebasestorage.googleapis.com/v0/b/skibuds-2b300.appspot.com/o/runTypePictures%2FAvalanche.png?alt=media&token=d4587994-8096-4240-b4f6-a859360339ca",
+            "Name" : "Backcountry",
+            "key" : 8
+          },
+          "Whistler_Black" : {
+            "ChannelPicture" : "https://firebasestorage.googleapis.com/v0/b/skibuds-2b300.appspot.com/o/runTypePictures%2FBlack.png?alt=media&token=6b9b16b0-8bc9-4294-9f21-7a04145a5063",
+            "Name" : "Advanced",
+            "key" : 5
+          },
+          "Whistler_Blue" : {
+            "ChannelPicture" : "https://firebasestorage.googleapis.com/v0/b/skibuds-2b300.appspot.com/o/runTypePictures%2FBlue.png?alt=media&token=52f4d8a4-43fd-47a7-9390-45270b03e745",
+            "Name" : "Intermediate",
+            "key" : 3
+          },
+          "Whistler_BlueBlack" : {
+            "ChannelPicture" : "https://firebasestorage.googleapis.com/v0/b/skibuds-2b300.appspot.com/o/runTypePictures%2FBlueBlack.png?alt=media&token=30a54961-3db9-4aa9-9490-1bf024c5d1b7",
+            "Name" : "Semi Advanced",
+            "key" : 4
+          },
+          "Whistler_DoubleBlack" : {
+            "ChannelPicture" : "https://firebasestorage.googleapis.com/v0/b/skibuds-2b300.appspot.com/o/runTypePictures%2FDoubleBlack.png?alt=media&token=13fbcf8a-e00b-4b2d-89b9-93766c414350",
+            "Name" : "Expert",
+            "key" : 6
+          },
+          "Whistler_Green" : {
+            "ChannelPicture" : "https://firebasestorage.googleapis.com/v0/b/skibuds-2b300.appspot.com/o/runTypePictures%2FGreen.png?alt=media&token=3339ec73-467c-41af-8773-3d0aa8381d9c",
+            "Name" : "Beginner",
+            "key" : 2
+          },
+          "Whistler_Park" : {
+            "ChannelPicture" : "https://firebasestorage.googleapis.com/v0/b/skibuds-2b300.appspot.com/o/runTypePictures%2FPark.png?alt=media&token=ccb51b5e-3289-4154-8961-b42a6e018cea",
+            "Name" : "Park",
+            "key" : 7
+          }
+        },
+        "Public" : {
+          "Whistler_General" : {
+            "ChannelPicture" : "https://firebasestorage.googleapis.com/v0/b/skibuds-2b300.appspot.com/o/runTypePictures%2FgeneralChat.png?alt=media&token=c5992aa0-5b24-49ca-b652-e9d10994e6c6",
+            "Name" : "Whistler General",
+            "key" : 1
+          },
+          "Whistler_Travel" : {
+            "ChannelPicture" : "https://firebasestorage.googleapis.com/v0/b/skibuds-2b300.appspot.com/o/runTypePictures%2Fplane.png?alt=media&token=271cc596-0842-4028-932c-b428c3e734b9",
+            "Name" : "Travel",
+            "key" : 10
+          }
+        }
+      }
+    }
+  },
+  "ChatMessages" : {
+    "Private" : {
+      "1kYQlbLMXFN5iKbN1Zedrq0hqv02_CTc4yyRgGbdSAanIMLaRSwEUTLq2" : {
+        "-Lb5V4ULFvXIjCVH9d9U" : {
+          "createdAt" : 1553813493891,
+          "text" : "Let’s ride",
+          "userId" : "1kYQlbLMXFN5iKbN1Zedrq0hqv02"
+        }
+      },
+      "1kYQlbLMXFN5iKbN1Zedrq0hqv02_UnyUnLK1o7QFM4q0tk4qQF2rQps2" : {
+        "-Lb5VBtINzjdi7aWg0VT" : {
+          "createdAt" : 1553813524223,
+          "text" : "Hey david",
+          "userId" : "1kYQlbLMXFN5iKbN1Zedrq0hqv02"
+        }
+      },
+      "1kYQlbLMXFN5iKbN1Zedrq0hqv02_UrSil9ZOtAUm5s1HHJOaVQ92Bi53" : {
+        "-Lb5WKLvHftY8VB_8qgP" : {
+          "createdAt" : 1553813820979,
+          "text" : "Sup thomas",
+          "userId" : "UrSil9ZOtAUm5s1HHJOaVQ92Bi53"
+        }
+      },
+      "1kYQlbLMXFN5iKbN1Zedrq0hqv02_mRGFzeEklPU5NVzIgeH7gnVuycj1" : {
+        "-Lb5VV-lPi-StfXA1vv5" : {
+          "createdAt" : 1553813602523,
+          "text" : "Want some blade skis?",
+          "userId" : "mRGFzeEklPU5NVzIgeH7gnVuycj1"
+        }
+      },
+      "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1_CTc4yyRgGbdSAanIMLaRSwEUTLq2" : {
+        "-Lb5WmQcOX1AINqtQfvT" : {
+          "createdAt" : 1553813940075,
+          "text" : "Yeah ehhh",
+          "userId" : "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1"
+        }
+      },
+      "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1_UnyUnLK1o7QFM4q0tk4qQF2rQps2" : {
+        "-Lb5WdT157nvRNtyYcSe" : {
+          "createdAt" : 1553813903354,
+          "text" : "Where to",
+          "userId" : "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1"
+        }
+      },
+      "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1_UrSil9ZOtAUm5s1HHJOaVQ92Bi53" : {
+        "-Lb5WXI5Zbz_37CYudvV" : {
+          "createdAt" : 1553813873971,
+          "text" : "Did you take my beer?",
+          "userId" : "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1"
+        }
+      },
+      "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1_mRGFzeEklPU5NVzIgeH7gnVuycj1" : {
+        "-Lb5Wi5e9xXLMtwO259Y" : {
+          "createdAt" : 1553813922433,
+          "text" : "Hello",
+          "userId" : "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1"
+        }
+      },
+      "CTc4yyRgGbdSAanIMLaRSwEUTLq2_UnyUnLK1o7QFM4q0tk4qQF2rQps2" : {
+        "-Lb5Uqr0295Dh5lYhxL7" : {
+          "createdAt" : 1553813433972,
+          "text" : "Where do you want to ride?",
+          "userId" : "CTc4yyRgGbdSAanIMLaRSwEUTLq2"
+        }
+      },
+      "CTc4yyRgGbdSAanIMLaRSwEUTLq2_UrSil9ZOtAUm5s1HHJOaVQ92Bi53" : {
+        "-Lb5WAXJoXLhdg46lRhz" : {
+          "createdAt" : 1553813780773,
+          "text" : "Yeah ehh",
+          "userId" : "UrSil9ZOtAUm5s1HHJOaVQ92Bi53"
+        },
+        "-Lb5WF4iZNJG1lLN2s9C" : {
+          "createdAt" : 1553813799438,
+          "text" : "Where are the messages",
+          "userId" : "UrSil9ZOtAUm5s1HHJOaVQ92Bi53"
+        }
+      },
+      "CTc4yyRgGbdSAanIMLaRSwEUTLq2_mRGFzeEklPU5NVzIgeH7gnVuycj1" : {
+        "-Lb5VhGJG5Adt04q40dG" : {
+          "createdAt" : 1553813656823,
+          "text" : "Want some blade skis?",
+          "userId" : "mRGFzeEklPU5NVzIgeH7gnVuycj1"
+        }
+      },
+      "UnyUnLK1o7QFM4q0tk4qQF2rQps2_mRGFzeEklPU5NVzIgeH7gnVuycj1" : {
+        "-Lb5Vdj5hQtG0c7nn6DY" : {
+          "createdAt" : 1553813642384,
+          "text" : "Want some blade skis?",
+          "userId" : "mRGFzeEklPU5NVzIgeH7gnVuycj1"
+        }
+      },
+      "UrSil9ZOtAUm5s1HHJOaVQ92Bi53_mRGFzeEklPU5NVzIgeH7gnVuycj1" : {
+        "-Lb5W0mr2Bg_8Dlfn3BW" : {
+          "createdAt" : 1553813740832,
+          "text" : "Blade skis are stupid",
+          "userId" : "UrSil9ZOtAUm5s1HHJOaVQ92Bi53"
+        }
+      }
+    },
+    "Public" : {
+      "Whistler_General" : {
+        "-Lb5U_sZ8WVhtAdXTmja" : {
+          "createdAt" : 1553813364534,
+          "text" : "Hey anyone want to ride today?",
+          "userId" : "UnyUnLK1o7QFM4q0tk4qQF2rQps2"
+        },
+        "-Lb5Uvtdl3OY91lkmJlR" : {
+          "createdAt" : 1553813454690,
+          "text" : "Yeah I’m down",
+          "userId" : "CTc4yyRgGbdSAanIMLaRSwEUTLq2"
+        },
+        "-Lb5V2dB5djtIbt2VvPH" : {
+          "createdAt" : 1553813486399,
+          "text" : "Where to?",
+          "userId" : "1kYQlbLMXFN5iKbN1Zedrq0hqv02"
+        },
+        "-Lb5VRTsxokW5m9JekeT" : {
+          "createdAt" : 1553813588174,
+          "text" : "Tims",
+          "userId" : "mRGFzeEklPU5NVzIgeH7gnVuycj1"
+        },
+        "-Lb5VXsqrxRx4YKI66Ay" : {
+          "createdAt" : 1553813614370,
+          "text" : "Want some blade skis?",
+          "userId" : "mRGFzeEklPU5NVzIgeH7gnVuycj1"
+        },
+        "-Lb5VbKdP1K2GVSQGAlX" : {
+          "createdAt" : 1553813632661,
+          "text" : "Hello",
+          "userId" : "mRGFzeEklPU5NVzIgeH7gnVuycj1"
+        },
+        "-Lb5Vy8FJsUx92Gyn85M" : {
+          "createdAt" : 1553813726024,
+          "text" : "Anyone have any beer?",
+          "userId" : "UrSil9ZOtAUm5s1HHJOaVQ92Bi53"
+        },
+        "-Lb5WT2kMbDz2zc2ELh6" : {
+          "createdAt" : 1553813856754,
+          "text" : "Nah",
+          "userId" : "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1"
+        }
+      },
+      "Whistler_Travel" : {
+        "-Lb5UgPaCpNahBz21ZEl" : {
+          "createdAt" : 1553813391206,
+          "text" : "Hello everyone I want to take some trips",
+          "userId" : "UnyUnLK1o7QFM4q0tk4qQF2rQps2"
+        },
+        "-Lb5Unx33Wo9DR7jMwzo" : {
+          "createdAt" : 1553813422091,
+          "text" : "I would like to ride today!",
+          "userId" : "CTc4yyRgGbdSAanIMLaRSwEUTLq2"
+        },
+        "-Lb5V8UL4mchh1vj9pai" : {
+          "createdAt" : 1553813510328,
+          "text" : "Let’s do banff",
+          "userId" : "1kYQlbLMXFN5iKbN1Zedrq0hqv02"
+        },
+        "-Lb5W4xv1jwRCgUj6uw3" : {
+          "createdAt" : 1553813758016,
+          "text" : "Sounds fun",
+          "userId" : "UrSil9ZOtAUm5s1HHJOaVQ92Bi53"
+        },
+        "-Lb5WaboWiUpf1sYGutF" : {
+          "createdAt" : 1553813891800,
+          "text" : "Sure",
+          "userId" : "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1"
+        }
+      }
+    }
+  },
+  "Chats" : {
+    "Private" : {
+      "1kYQlbLMXFN5iKbN1Zedrq0hqv02_CTc4yyRgGbdSAanIMLaRSwEUTLq2" : {
+        "users" : {
+          "1kYQlbLMXFN5iKbN1Zedrq0hqv02" : true,
+          "CTc4yyRgGbdSAanIMLaRSwEUTLq2" : true
+        }
+      },
+      "1kYQlbLMXFN5iKbN1Zedrq0hqv02_UnyUnLK1o7QFM4q0tk4qQF2rQps2" : {
+        "users" : {
+          "1kYQlbLMXFN5iKbN1Zedrq0hqv02" : false,
+          "UnyUnLK1o7QFM4q0tk4qQF2rQps2" : false
+        }
+      },
+      "1kYQlbLMXFN5iKbN1Zedrq0hqv02_UrSil9ZOtAUm5s1HHJOaVQ92Bi53" : {
+        "users" : {
+          "1kYQlbLMXFN5iKbN1Zedrq0hqv02" : true,
+          "UrSil9ZOtAUm5s1HHJOaVQ92Bi53" : true
+        }
+      },
+      "1kYQlbLMXFN5iKbN1Zedrq0hqv02_mRGFzeEklPU5NVzIgeH7gnVuycj1" : {
+        "users" : {
+          "1kYQlbLMXFN5iKbN1Zedrq0hqv02" : true,
+          "mRGFzeEklPU5NVzIgeH7gnVuycj1" : true
+        }
+      },
+      "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1_CTc4yyRgGbdSAanIMLaRSwEUTLq2" : {
+        "users" : {
+          "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1" : true,
+          "CTc4yyRgGbdSAanIMLaRSwEUTLq2" : true
+        }
+      },
+      "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1_UnyUnLK1o7QFM4q0tk4qQF2rQps2" : {
+        "users" : {
+          "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1" : false,
+          "UnyUnLK1o7QFM4q0tk4qQF2rQps2" : false
+        }
+      },
+      "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1_UrSil9ZOtAUm5s1HHJOaVQ92Bi53" : {
+        "users" : {
+          "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1" : true,
+          "UrSil9ZOtAUm5s1HHJOaVQ92Bi53" : true
+        }
+      },
+      "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1_mRGFzeEklPU5NVzIgeH7gnVuycj1" : {
+        "users" : {
+          "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1" : true,
+          "mRGFzeEklPU5NVzIgeH7gnVuycj1" : true
+        }
+      },
+      "CTc4yyRgGbdSAanIMLaRSwEUTLq2_UnyUnLK1o7QFM4q0tk4qQF2rQps2" : {
+        "users" : {
+          "CTc4yyRgGbdSAanIMLaRSwEUTLq2" : false,
+          "UnyUnLK1o7QFM4q0tk4qQF2rQps2" : false
+        }
+      },
+      "CTc4yyRgGbdSAanIMLaRSwEUTLq2_UrSil9ZOtAUm5s1HHJOaVQ92Bi53" : {
+        "users" : {
+          "CTc4yyRgGbdSAanIMLaRSwEUTLq2" : true,
+          "UrSil9ZOtAUm5s1HHJOaVQ92Bi53" : true
+        }
+      },
+      "CTc4yyRgGbdSAanIMLaRSwEUTLq2_mRGFzeEklPU5NVzIgeH7gnVuycj1" : {
+        "users" : {
+          "CTc4yyRgGbdSAanIMLaRSwEUTLq2" : true,
+          "mRGFzeEklPU5NVzIgeH7gnVuycj1" : true
+        }
+      },
+      "UnyUnLK1o7QFM4q0tk4qQF2rQps2_mRGFzeEklPU5NVzIgeH7gnVuycj1" : {
+        "users" : {
+          "UnyUnLK1o7QFM4q0tk4qQF2rQps2" : false,
+          "mRGFzeEklPU5NVzIgeH7gnVuycj1" : false
+        }
+      },
+      "UrSil9ZOtAUm5s1HHJOaVQ92Bi53_mRGFzeEklPU5NVzIgeH7gnVuycj1" : {
+        "users" : {
+          "UrSil9ZOtAUm5s1HHJOaVQ92Bi53" : true,
+          "mRGFzeEklPU5NVzIgeH7gnVuycj1" : true
+        }
+      }
+    },
+    "Public" : {
+      "Whistler_General" : {
+        "users" : {
+          "1kYQlbLMXFN5iKbN1Zedrq0hqv02" : true,
+          "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1" : true,
+          "CTc4yyRgGbdSAanIMLaRSwEUTLq2" : true,
+          "UnyUnLK1o7QFM4q0tk4qQF2rQps2" : true,
+          "UrSil9ZOtAUm5s1HHJOaVQ92Bi53" : true,
+          "mRGFzeEklPU5NVzIgeH7gnVuycj1" : true
+        }
+      },
+      "Whistler_Travel" : {
+        "users" : {
+          "1kYQlbLMXFN5iKbN1Zedrq0hqv02" : true,
+          "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1" : true,
+          "CTc4yyRgGbdSAanIMLaRSwEUTLq2" : true,
+          "UnyUnLK1o7QFM4q0tk4qQF2rQps2" : true,
+          "UrSil9ZOtAUm5s1HHJOaVQ92Bi53" : true
+        }
+      }
+    }
+  },
+  "MountainInfo:" : {
+    "Grouse" : {
+      "latitude" : 49.38499846,
+      "longitude" : -123.07249971,
+      "name" : "Grouse Mountain"
+    },
+    "Whistler" : {
+      "latitude" : 50.116322,
+      "longitude" : -122.957359,
+      "name" : "Whistler Blackcomb"
+    }
+  },
+  "Users" : {
+    "1kYQlbLMXFN5iKbN1Zedrq0hqv02" : {
+      "chats" : {
+        "Private" : {
+          "1kYQlbLMXFN5iKbN1Zedrq0hqv02_CTc4yyRgGbdSAanIMLaRSwEUTLq2" : 1553813532561,
+          "1kYQlbLMXFN5iKbN1Zedrq0hqv02_UnyUnLK1o7QFM4q0tk4qQF2rQps2" : 1553920863677,
+          "1kYQlbLMXFN5iKbN1Zedrq0hqv02_UrSil9ZOtAUm5s1HHJOaVQ92Bi53" : 1553813820979,
+          "1kYQlbLMXFN5iKbN1Zedrq0hqv02_mRGFzeEklPU5NVzIgeH7gnVuycj1" : 1553813668257
+        },
+        "Public" : {
+          "Whistler_General" : 1553813856754,
+          "Whistler_Travel" : 1553813891800
+        }
+      },
+      "meta" : {
+        "about" : "",
+        "email" : "Thomas@test.com",
+        "profilePicture" : "http://gravatar.com/avatar/a317d7dd8432d4656bebe21fbf04fd0c?d=identicon",
+        "skillLevel" : "",
+        "typeOfRider" : "",
+        "username" : "Thomas"
+      }
+    },
+    "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1" : {
+      "chats" : {
+        "Private" : {
+          "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1_CTc4yyRgGbdSAanIMLaRSwEUTLq2" : 1553813940075,
+          "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1_UnyUnLK1o7QFM4q0tk4qQF2rQps2" : 1553931738853,
+          "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1_UrSil9ZOtAUm5s1HHJOaVQ92Bi53" : 1553813873971,
+          "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1_mRGFzeEklPU5NVzIgeH7gnVuycj1" : 1553813922433
+        },
+        "Public" : {
+          "Whistler_General" : 1553813931157,
+          "Whistler_Travel" : 1553813891800
+        }
+      },
+      "meta" : {
+        "about" : "",
+        "email" : "Joe@test.com",
+        "profilePicture" : "http://gravatar.com/avatar/81e0af938e283657222965282daae680?d=identicon",
+        "skillLevel" : "",
+        "typeOfRider" : "",
+        "username" : "Joe"
+      }
+    },
+    "CTc4yyRgGbdSAanIMLaRSwEUTLq2" : {
+      "chats" : {
+        "Private" : {
+          "1kYQlbLMXFN5iKbN1Zedrq0hqv02_CTc4yyRgGbdSAanIMLaRSwEUTLq2" : 1553813532560,
+          "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1_CTc4yyRgGbdSAanIMLaRSwEUTLq2" : 1553813940075,
+          "CTc4yyRgGbdSAanIMLaRSwEUTLq2_UnyUnLK1o7QFM4q0tk4qQF2rQps2" : 1553912283343,
+          "CTc4yyRgGbdSAanIMLaRSwEUTLq2_UrSil9ZOtAUm5s1HHJOaVQ92Bi53" : 1553813799438,
+          "CTc4yyRgGbdSAanIMLaRSwEUTLq2_mRGFzeEklPU5NVzIgeH7gnVuycj1" : 1553813656823
+        },
+        "Public" : {
+          "Whistler_General" : 1553813856754,
+          "Whistler_Travel" : 1553813891800
+        }
+      },
+      "meta" : {
+        "about" : "",
+        "email" : "Logan@test.com",
+        "profilePicture" : "http://gravatar.com/avatar/419494a2cf00edafd65d214869538268?d=identicon",
+        "skillLevel" : "",
+        "typeOfRider" : "",
+        "username" : "Logan"
+      }
+    },
+    "UnyUnLK1o7QFM4q0tk4qQF2rQps2" : {
+      "chats" : {
+        "Private" : {
+          "1kYQlbLMXFN5iKbN1Zedrq0hqv02_UnyUnLK1o7QFM4q0tk4qQF2rQps2" : 1553920863679,
+          "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1_UnyUnLK1o7QFM4q0tk4qQF2rQps2" : 1553931738854,
+          "CTc4yyRgGbdSAanIMLaRSwEUTLq2_UnyUnLK1o7QFM4q0tk4qQF2rQps2" : 1553912283344,
+          "UnyUnLK1o7QFM4q0tk4qQF2rQps2_mRGFzeEklPU5NVzIgeH7gnVuycj1" : 1553921282654
+        },
+        "Public" : {
+          "Whistler_General" : 1553813856754,
+          "Whistler_Travel" : 1553813891800
+        }
+      },
+      "meta" : {
+        "about" : "",
+        "email" : "David@test.com",
+        "profilePicture" : "http://gravatar.com/avatar/9903e4fbffaa0e3fd51c76f18ddbd9d7?d=identicon",
+        "skillLevel" : "",
+        "typeOfRider" : "",
+        "username" : "David"
+      }
+    },
+    "UrSil9ZOtAUm5s1HHJOaVQ92Bi53" : {
+      "chats" : {
+        "Private" : {
+          "1kYQlbLMXFN5iKbN1Zedrq0hqv02_UrSil9ZOtAUm5s1HHJOaVQ92Bi53" : 1553813820979,
+          "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1_UrSil9ZOtAUm5s1HHJOaVQ92Bi53" : 1553813873971,
+          "CTc4yyRgGbdSAanIMLaRSwEUTLq2_UrSil9ZOtAUm5s1HHJOaVQ92Bi53" : 1553813799438,
+          "UrSil9ZOtAUm5s1HHJOaVQ92Bi53_mRGFzeEklPU5NVzIgeH7gnVuycj1" : 1553813740832
+        },
+        "Public" : {
+          "Whistler_General" : 1553813856754,
+          "Whistler_Travel" : 1553813891800
+        }
+      },
+      "meta" : {
+        "about" : "",
+        "email" : "George@test.com",
+        "profilePicture" : "http://gravatar.com/avatar/35bb6584e4b3dbe3f6294574ed6b671d?d=identicon",
+        "skillLevel" : "",
+        "typeOfRider" : "",
+        "username" : "George"
+      }
+    },
+    "mRGFzeEklPU5NVzIgeH7gnVuycj1" : {
+      "chats" : {
+        "Private" : {
+          "1kYQlbLMXFN5iKbN1Zedrq0hqv02_mRGFzeEklPU5NVzIgeH7gnVuycj1" : 1553813668258,
+          "9MCIZT0AlXdmuJwcQ6y9YfPB8Pl1_mRGFzeEklPU5NVzIgeH7gnVuycj1" : 1553813922433,
+          "CTc4yyRgGbdSAanIMLaRSwEUTLq2_mRGFzeEklPU5NVzIgeH7gnVuycj1" : 1553813656823,
+          "UnyUnLK1o7QFM4q0tk4qQF2rQps2_mRGFzeEklPU5NVzIgeH7gnVuycj1" : 1553921282653,
+          "UrSil9ZOtAUm5s1HHJOaVQ92Bi53_mRGFzeEklPU5NVzIgeH7gnVuycj1" : 1553813740832
+        },
+        "Public" : {
+          "Whistler_General" : 1553813856754
+        }
+      },
+      "meta" : {
+        "about" : "",
+        "email" : "Jedd@test.com",
+        "profilePicture" : "http://gravatar.com/avatar/a7afbd271bd14e602e1ea986f660f8dd?d=identicon",
+        "skillLevel" : "",
+        "typeOfRider" : "",
+        "username" : "Jedd"
+      }
+    }
+  }
+}
